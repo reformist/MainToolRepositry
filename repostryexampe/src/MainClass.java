@@ -8,7 +8,8 @@ public class MainClass {
 		System.out.println("IN main");
 		Chotaclass cc=new Chotaclass();
 		cc.setData();
-		System.out.println("IN GIT");
+		System.out.println("IN GIT"); 
+		System.out.println("HI Bhimsen");
 
 	}
 
